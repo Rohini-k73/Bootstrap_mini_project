@@ -1,0 +1,14 @@
+header{
+    height: 50vh;
+    background: url("https://wallsdesk.com/wp-content/uploads/2016/09/Ameesha-Patel-Pictures.jpg") center/cover;
+}
+
+.welcomesection{
+    background-color: rgb(122, 18, 183);
+}
+.collectionsection{
+    background-color: rgb(33, 197, 238);
+}
+.posterratessection{
+    background-color: palevioletred;
+}
